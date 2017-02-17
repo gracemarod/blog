@@ -1,0 +1,1 @@
+web: gunicorn GraceBlog.wsgi --log-file -
